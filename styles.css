@@ -12,6 +12,9 @@ div {
   background: black;
   text-align: center;
 }
+li {
+  text-align: left;
+}
 .fbox {
   float: left;
 }
